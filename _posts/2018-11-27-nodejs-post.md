@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NodeJs 설치"
+title: "node.js 설치"
 date: 2018-11-28 22:30:00 -0400
 categories: NodeJs update
 ---
